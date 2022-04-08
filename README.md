@@ -37,11 +37,11 @@ Get apikey [`zenz`](https://zenzapi.xyz/pricing)
 * [`Yoga`](https://github.com/YogGanz)
 * [`Riy`](https://github.com/riychdwayne)
 * [`Faiz`](https://github.com/paizx)
-* [`Adhista`](https://github.com/24ID)
+* [`IPANG BOTZ`](https://github.com/ipang22222)
 
-## Contact Shela ( Keyol )
-* [`Wangsap`](https://wa.me/6281995944283)
-* [`Igeh`](https://instagram.com/shelaaa817)
+## Contact Shela ( ipang )
+* [`Wangsap`](https://wa.me/6282136031499)
+* [`Igeh`](https://instagram.com/irfantrio.sptra)
 
 ## Contact RiychDwayne
 * [`Wangsap`](https://wa.me/6281575886399)
