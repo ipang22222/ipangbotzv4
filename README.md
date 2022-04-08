@@ -1,7 +1,7 @@
 <p align="center">
 	<img src="https://telegra.ph/file/695d8d1ddb483aaf9a79e.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Keyolbot-Md</h1>
+<h1 align="center">IPANG BOTZ</h1>
 
 Base : [`DikaArdnt`](https://github.com/DikaArdnt)
 Recode : [`RiychDwayne`](https://github.com/riychdwayne)
